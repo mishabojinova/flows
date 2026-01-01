@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "ABCRepro-Medium";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/ABCRepro-Medium-Trial.woff") format("woff"), url("../fonts/ABCRepro-Medium-Trial.woff2") format("woff2");
+}
+
+
+@font-face {
+  font-family: "calendar";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url(../fonts/calendar-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "grid";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url(../fonts/grid-Regular.woff2) format("woff2");
+}
